@@ -25,4 +25,3 @@ The app will redirect any domain pointed to it, so you'll just need to create an
 * Freely distributable and licensed under the [MIT license](http://kjohnston.mit-license.org/license.html).
 * Copyright (c) 2012 Kenny Johnston [![endorse](http://api.coderwall.com/kjohnston/endorsecount.png)](http://coderwall.com/kjohnston)
 * Copyright (c) 2012 John Griffiths [![endorse](http://api.coderwall.com/johnantoni/endorsecount.png)](http://coderwall.com/johnantoni)
-
